@@ -1,0 +1,11 @@
+.navbar {
+  background-color: var(--nav-colour) !important;
+}
+
+.nav-link {
+  color: var(--text-color) !important;
+}
+
+.active {
+  color: var(--boks-colour) !important;
+}

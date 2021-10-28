@@ -1,0 +1,7 @@
+body {
+  background-color: var(--background-colour);
+}
+
+footer {
+  display: flex;
+}
