@@ -4,4 +4,9 @@ body {
 
 footer {
   display: flex;
+  justify-content: space-between;
+  color: var(--text-color);
+  background-color: var(--nav-colour);
+  padding: 10px;
+  font-size: 12px;
 }
