@@ -2,10 +2,16 @@
   background-color: var(--nav-colour) !important;
 }
 
+.navbar-nav {
+  margin-left: auto;
+}
+
 .nav-link {
   color: var(--text-color) !important;
+  text-transform: uppercase;
 }
 
 .active {
   color: var(--boks-colour) !important;
+  text-transform: uppercase;
 }
