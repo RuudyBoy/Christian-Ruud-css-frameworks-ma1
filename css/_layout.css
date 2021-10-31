@@ -1,9 +1,5 @@
 body {
   background-color: var(--background-colour);
-  height: 100%;
-  margin: 0px;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
 }
 
 footer {
@@ -13,7 +9,4 @@ footer {
   background-color: var(--nav-colour);
   padding: 10px;
   font-size: 12px;
-}
-
-.footer {
 }
